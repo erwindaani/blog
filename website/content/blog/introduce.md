@@ -3,7 +3,6 @@ author = "Erwin Dani Saputra"
 bg_image = ""
 date = 2021-09-24T03:12:00Z
 description = ""
-draft = true
 github_link = ""
 tags = []
 title = "Introduce"
